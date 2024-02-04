@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ekow Amoasi Imbeah
-- 👀 I’m interested in machine learing and robotics
+- 👀 I’m interested in Data Analystics and Data Science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on people into machine learning
 - 📫 How to reach me @EkowImbeah1 on twitter
