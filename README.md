@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Ekow Amoasi Imbeah
-- 👀 I’m interested in Data Analystics and Data Science
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on people into machine learning
+- 👀 I’m interested in learning anything data.
+- 🌱 I’m current building wonderful projects that links data with ML and AI.
+- 🤩 The future promises to be amazing.
+- 🗂️ I’m looking to collaborate with individuals who will love to create amazing things with data.
 
 <!---
 Amoasi08/Amoasi08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
