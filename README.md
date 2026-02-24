@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ekow Amoasi Imbeah
 - 👀 I’m interested in learning anything data.
-- 🌱 I’m current building wonderful projects that links data with ML and AI.
+- 🌱 I’m current building wonderful projects that links data with Data Analytics, ML and AI.
 - 🤩 The future promises to be amazing.
 - 🗂️ I’m looking to collaborate with individuals who will love to create amazing things with data.
 
